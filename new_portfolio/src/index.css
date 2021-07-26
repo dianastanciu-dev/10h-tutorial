@@ -1,0 +1,22 @@
+body{
+  background-color: #ddbea9;
+}
+
+article{
+  display: flex;
+  align-items: center;
+  margin: 5% auto;
+  justify-content: center;
+}
+
+article h1{
+  justify-content: center;
+}
+
+.projectImg{
+  width: 40%;
+  height: auto;
+
+
+  
+}
